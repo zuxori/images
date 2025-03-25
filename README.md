@@ -15,7 +15,7 @@ These images include:
 ### Covers
 
 <p align="center">
-  <img src="zuxori_cover_cast.jpg" alt="COVER ZU" width="600"/>
+  <img src="zuxori_cover_cast.jpg" alt="COVER CAST" width="600"/>
 </p>
 <p align="center"></p>
 
@@ -31,14 +31,18 @@ These images include:
 ### Logos
 
 <p align="center">
-  <img src="logo_pink.png" alt="LOGO, PINK" width="600"/>
+  <img src="logo_greyscale.png" alt="LOGO GREYSCALE" width="600"/>
 </p>
-<p align="center">LOGO, PINK</p>
+<p align="center">LOGO GREYSCALE</p>
+
+---
 
 <p align="center">
-  <img src="logo_greyscale.png" alt="LOGO, GREYSCALE" width="600"/>
+  <img src="logo_pink.png" alt="LOGO PINK" width="600"/>
 </p>
-<p align="center">LOGO, GREYSCALE</p>
+<p align="center">LOGO PINK</p>
+
+---
 
 
 ### Discover the Story
