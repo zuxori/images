@@ -14,14 +14,14 @@ Images include:
 ### Covers
 
 <p align="center">
-  <img src="zuxori_cover_cast.jpg" alt="COVER CAST" width="600"/>
+  <img src="zuxori-cover-cast.jpg" alt="COVER CAST" width="600"/>
 </p>
 <p align="center"><em>Cover: Ensemble</em></p>
 
 ---
 
 <p align="center">
-  <img src="zuxori_cover_classic.png" alt="COVER CLASSIC" width="600"/>
+  <img src="zuxori-cover-classic.png" alt="COVER CLASSIC" width="600"/>
 </p>
 <p align="center"><em>Cover: Classic</em></p>
 
@@ -30,14 +30,14 @@ Images include:
 ### Logos
 
 <p align="center">
-  <img src="logo_greyscale.png" alt="LOGO GREYSCALE" width="600"/>
+  <img src="logo-greyscale.png" alt="LOGO GREYSCALE" width="600"/>
 </p>
 <p align="center"><em>Logo Greyscale</em></p>
 
 ---
 
 <p align="center">
-  <img src="logo_pink.png" alt="LOGO PINK" width="600"/>
+  <img src="logo-pink.png" alt="LOGO PINK" width="600"/>
 </p>
 <p align="center"><em>Logo Pink </em></p>
 
