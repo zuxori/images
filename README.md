@@ -1,4 +1,7 @@
-# ZU X ORI Images Repository
+<h1>
+  <img src="https://github.com/zuxori/zuxori.github.io/blob/004cb58801a15d9c82a50df1e8a63fa3f05883d3/zuxori-logo.png?raw=true" alt="ZU X ORI Logo" width="22" style="vertical-align: middle;">
+  ZU X ORI Images Repository
+</h1>
 
 This repository contains the official visual assets for the world of **ZU X ORI** — a reincarnation-era sequel to *Romeo and Juliet*, told through memory, mystery, and love.
 
